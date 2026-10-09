@@ -1,0 +1,6 @@
+{
+  "name": "CuanSiswa - Money Management Siswa",
+  "description": "Money Management App mobile-first khusus siswa kelas akhir dengan daily budget meter, multi-wallet, target tabungan, analitik, dan kalkulator split bill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
